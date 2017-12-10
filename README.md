@@ -1,5 +1,6 @@
 # Python Lerning Excercise (PLE)
 ![Python Lerning Excercise (PLE)](santa.jpg)
+
 This is the repository for my excercise files, [Python Lerning Excercise (PLE)](https://en.wikipedia.org/wiki/Python_(programming_language))
 
 ## Topics include:
