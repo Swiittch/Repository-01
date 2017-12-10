@@ -13,6 +13,6 @@ This repository has branches for each of the videos in the course. You can use t
 	- [node.js](http://nodejs.org/)
 	- [git](http://git-scm.com/)
 	- [gulp](http://gulpjs.com/)
-2. Clone this repository into your local machine using Gitbash (PC) `> git clone https://github.com/planetoftheweb/attendance.git`
+2. Clone this repository into your local machine using Gitbash (PC) `> git clone https://github.com/blablabla`
 
 For more help setting up a comprehensive Gulp.js workflow, check out [Python WIKI](https://en.wikipedia.org/wiki/Python_(programming_language)).
